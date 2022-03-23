@@ -1,4 +1,4 @@
-class program1
+class javaprogram
 {
 	static void application(String name,long mobilenumber,String mailid,String relation,int DOB,String qualification,char gender)
 	{
